@@ -17,8 +17,7 @@ But what is a PCA transformation?
 
 Here are brief details on how the models work:
 
-  1-Logistic Regression
-  Classification by logistic regression tries to fit the data into a sigmoid function. We then use this function to predict if a given row is fraudulent
+  1- Classification by logistic regression tries to fit the data into a sigmoid function. We then use this function to predict if a given row is fraudulent
   
   
   2-K-Nearest Neighbors
